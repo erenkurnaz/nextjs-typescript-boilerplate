@@ -1,0 +1,6 @@
+{
+  "extends": ["@erenkurnaz/eslint-config-react-ts", "plugin:cypress/recommended"],
+  "parserOptions": {
+    "project": ["./tsconfig.json"]
+  }
+}

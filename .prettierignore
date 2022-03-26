@@ -1,0 +1,11 @@
+node_modules
+.next
+yarn.lock
+package-lock.json
+public
+.storybook
+src/globalTypes.ts
+schema.graphql
+**/__generated__/*
+possibleTypes.json
+schema.json
