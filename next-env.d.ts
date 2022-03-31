@@ -3,9 +3,3 @@
 
 // NOTE: This file should not be edited
 // see https://nextjs.org/docs/basic-features/typescript for more information.
-const nextConfig = {
-  reactStrictMode: true,
-  pageExtensions: ['page.tsx'],
-};
-
-module.exports = nextConfig;
